@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52804892630",
+    "project_id": "namma-mistri-eeb19",
+    "storage_bucket": "namma-mistri-eeb19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52804892630:android:204eeb072f867922b95677",
+        "android_client_info": {
+          "package_name": "com.example.nammamistri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75oARF7RR6uj3aucZn9SLaDzk9PU94U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
