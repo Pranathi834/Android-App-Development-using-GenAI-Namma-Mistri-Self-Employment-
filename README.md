@@ -49,7 +49,7 @@ The objective of this project is to simplify self-employment and local worker ma
 ![Login Screen](a1.jpg)
 
 ### 🧮 Calculation Screen
-![Calculation Screen](images/calculation_screen.png)
+![Calculation Screen](a2.jpg)
 
 ### 👷 Labor Management Screen
 ![Labor Screen](images/labor_screen.png)
