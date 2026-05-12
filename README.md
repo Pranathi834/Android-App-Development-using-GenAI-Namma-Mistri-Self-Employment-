@@ -46,7 +46,7 @@ The objective of this project is to simplify self-employment and local worker ma
 ## 📷 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](images/login_screen.png)
+![Login Screen](a1.jpg)
 
 ### 🧮 Calculation Screen
 ![Calculation Screen](images/calculation_screen.png)
