@@ -61,7 +61,7 @@ The objective of this project is to simplify self-employment and local worker ma
 ![Rate Screen](a5.jpg)
 
 ### ⚙️ Settings Screen
-![Settings Screen](images/settings_screen.png)
+![Settings Screen](a6.jpg)
 
 ---
 
